@@ -80,7 +80,7 @@ node_modules/
 dependency_graph.svg
 
 
-#cmake files from ./autogen.sh Qtum
+#cmake files from ./autogen.sh Anomaly
 CMakeCache.txt
 CMakeFiles/
 Makefile
